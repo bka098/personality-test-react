@@ -5,9 +5,9 @@ const fonts = {
 }
 
 const colors = {
-  $colorBg: '#333',
-  $colorCardBg: '#302f34',
-  $colorGold: '#d4cd96'
+  $colorBg: '#181c1c',
+  $colorCardBg: '#262F2F',
+  $colorGold: '#fff'
 }
 
 export { fonts, colors }

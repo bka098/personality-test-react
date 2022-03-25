@@ -21,8 +21,8 @@ export const IntroCard = styled.div.attrs({
   ${media.laptop`width: 60%;`};
   .corner {
     backface-visibility: hidden;
-    border-right: 2px solid #d4cd96;
-    border-top: 2px solid #d4cd96;
+    border-right: 2px solid #ffff;
+    border-top: 2px solid #ffff;
     height: 12px;
     position: absolute;
     width: 12px;
@@ -63,8 +63,8 @@ export const QuestionCard = styled.div.attrs({
   ${media.laptop`width: 60%;`};
   .corner {
     backface-visibility: hidden;
-    border-right: 2px solid #d4cd96;
-    border-top: 2px solid #d4cd96;
+    border-right: 2px solid #ffff;
+    border-top: 2px solid #ffff;
     height: 12px;
     position: absolute;
     width: 12px;
